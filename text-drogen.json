@@ -1,0 +1,118 @@
+﻿{
+  "?xml": {
+    "@version": "1.0",
+    "@encoding": "utf-8"
+  },
+  "texts": [
+		  {
+			  "name": "Bliss",
+			  "dauer": "(6-KON) Stunden, min. 1 Std.",
+			  "artabh": "physisch + psychisch",
+			  "vector": "Inhalation, Injektion",
+			  "geschw": "1 Kampfrunde",
+			  "wrkg": "-1 REA, +1 Schwellwerte, -1 Limits. Hohe Schmerztoleranz 3 (S.84)",
+			  "info": "Opiat aus Mohnpflanzen, Bliss - 'Glückseligkeit' ist Beruhigungsmittel. [Weltfluchtaspekt]",
+			  "verf": "3V",
+			  "preis": "15 Nuyen"
+		  },
+		  {
+			  "name": "Cram",
+			  "dauer": "(12-KON) Stunden, min. 1 Std.",
+			  "artabh": "psychisch",
+			  "vector": "Inhalation, Einnahme",
+			  "geschw": "10 Minuten",
+			  "wrkg": "+1 REA, +1W6 Initativewürfel",
+			  "info": "Beliebtes Aufputschmittel, Wenn Wirkung nachlässt, bricht Benutzer zusammen und erleidet 6 geistige Schaden.[hyperwachsam, Paranoia, nervös]",
+			  "verf": "2E",
+			  "preis": "10 Nuyen"
+		  },
+		  {
+			  "name": "Deepweed",
+			  "dauer": "(6-KON) Stunden, min. 1 Std.",
+			  "artabh": "physisch",
+			  "vector": "Inhalation, Einnahme",
+			  "geschw": "sofort",
+			  "wrkg": "+1 WIL, +1 geistiges Limit, -1 körperliches Limit, zwingt Erwachte zur astralen Wahrnehmung",
+			  "info": "Nach Wirkung erleidet der Benutzer für Zeitraum von Wirkungsdauer der Droge -1 auf alle WP und Limits.[Charakter nicht ganz da]",
+			  "verf": "8V",
+			  "preis": "400 Nuyen"
+		  },
+		  {
+			  "name": "Jazz",
+			  "dauer": "10 x 1W6 Minuten",
+			  "artabh": "physisch + psychisch",
+			  "vector": "Inhalation",
+			  "geschw": "sofort",
+			  "wrkg": "+1 REA, +1 körperliches Limit, +2W6 Initiativewürfel [zappelig, überdreht, mehr Energie als verbrennen kann.]",
+			  "info": "Aufputschmittel, verbreitet bei Cops, wenn Wirkung nachlässt, bricht zusammen und Verzweiflung und Elend. Für Wirkungsdauer: Desorientierung (S.410).",
+			  "verf": "2E",
+			  "preis": "75 Nuyen"
+		  },
+		  {
+			  "name": "Kamikaze",
+			  "dauer": "10 x 1W6 Minuten",
+			  "artabh": "physisch + psychisch",
+			  "vector": "Inhalation",
+			  "geschw": "sofort",
+			  "wrkg": "+1 KON, +1 GES, +2 STR, +1 WIL, +2 körperliches Limit, +2W6 Initiativewürfel, Hohe Schmerztoleranz 3 (S.84) [halb wahnsinnig, unbesiegbar, selbstzerst.]",
+			  "info": "Wenn Wirkung nachlässt: bricht zusammen, für Zeitraum der Wirkungsdauer: -1 REA, -1 WIL, -2 auf Limits und 6 geistigen Schaden.",
+			  "verf": "4E",
+			  "preis": "100 Nuyen"
+		  },
+		  {
+			  "name": "Long Haul",
+			  "dauer": "4 Tage",
+			  "artabh": "psychisch",
+			  "vector": "Injektion",
+			  "geschw": "10 Minuten",
+			  "wrkg": "kein Schlafbedürfnis für 4 Tage",
+			  "info": "Dann 8W6 Std Tiefschlaf. Bleibt wach: Desorientierung (S.410) und Halluzinationen. Weitere Dosis: 1W6+2 Tage wach, dann 10 geistiger Schaden + 8W6 Std Tiefschlaf.",
+			  "verf": "-",
+			  "preis": "50 Nuyen"
+		  },
+		  {
+			  "name": "Nitro",
+			  "dauer": "10 x 1W6 Minuten",
+			  "artabh": "physisch + psychisch",
+			  "vector": "Inhalation",
+			  "geschw": "1 Kampfrunde",
+			  "wrkg": "+2 STR, +2 WIL, +2 Wahrnehmung, +2 körperliches Limit, Hohe Schmerztoleranz 6 (S.84) [Bersten vor Energie, verringerte Aufmerksamkeitsspanne, reden ununterbrochen]",
+			  "info": "Beliebt bei Trollgangs, kann umbringen. Wenn Wirkung nachlässt, für Wirkungsdauer: -2 auf alle Limits, 9 Kästchen geistigen Schaden.",
+			  "verf": "2E",
+			  "preis": "50 Nuyen"
+		  },
+		  {
+			  "name": "Novacoke",
+			  "dauer": "(10-KON) Stunden, min. 1 Stunde",
+			  "artabh": "physisch + psychisch",
+			  "vector": "Inhalation, Injektion",
+			  "geschw": "1 Kampfrunde",
+			  "wrkg": "+1 REA, +1 CHA, +1 Wahrnehmung, +1 soziales Limit, Hohe Schmerztoleranz 1 (S.84)",
+			  "info": "Aufputschmittel aus Cocapflanze, suchterzeugend. Nach Abklingen, sinken für Wirkungsdauer WIL und CHA auf 1 und alle Limits um 1.",
+			  "verf": "2E",
+			  "preis": "10 Nuyen"
+		  },
+		  {
+			  "name": "Psyche",
+			  "dauer": "(12-KON) Stunden, min. 1 Stunde",
+			  "artabh": "psychisch",
+			  "vector": "Einnahme",
+			  "geschw": "10 Minuten",
+			  "wrkg": "+1 INT, +1 LOG, +1 geistiges Limit [hyperaufmerksam, distanziert, detailbesessen]",
+			  "info": "Beliebt bei Zauberern und Technomancern, erwachter Konsument erhält nur WP-Malus von -1 für jeden aufrechterhaltenen Zauber.",
+			  "verf": "-",
+			  "preis": "200 Nuyen"
+		  },
+		  {
+			  "name": "Zen",
+			  "dauer": "10 x 1W6 Minuten",
+			  "artabh": "psychisch",
+			  "vector": "Inhalation",
+			  "geschw": "5 Minuten",
+			  "wrkg": "-2 REA, +1 WIL, -1 WP-Mod für körperliche Handlungen",
+			  "info": "Psychedelisches Halluzinogen, besonders beliebt bei Leuten, die der Realität entkommen oder tranceähnliche Zustände erreichen wollen.",
+			  "verf": "4E",
+			  "preis": "5 Nuyen"
+		  }
+		  	  ]
+}
